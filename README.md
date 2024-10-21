@@ -1,3 +1,4 @@
+![Magie logo](https://github.com/Space-Labs/Magpie/blob/main/documentation/Magpie-logo-200px.png?raw=true)
 # Magpie: Autonomous Onboard Flight Software for Space Network's CTC Satellites
 
 Property of Space Telecommunications, Inc, 2024, No Public License, at this time.
