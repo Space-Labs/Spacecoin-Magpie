@@ -61,3 +61,16 @@ github.com/JLOpenSource/STARS
 sepcify your FPP, generates your base class
 
 Capability already exists within F' to determine duty cycle for all rate groups, for hardware compute resource estimation
+
+===
+
+# Afternoon session
+
+## Ports and components
+
+Pretty much jumped right into LED Blinker,... oh boy!!!
+
+It shall blink in response to a ground command
+the rate of blank shall be changeable in flight
+
+Ingeunity helicopter had a 1,000Hz rate group component, that could then schedule 10Hz rate groups at 1000Hz precision, and warn on time jitter limits at same precision
